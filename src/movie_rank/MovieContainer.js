@@ -9,7 +9,7 @@ const MovieContainer = styled.main`
     width: 100%;
 
     ${mq.maxWidth("lg")`
-      padding: 30px 20px;
+      padding: 30px 20px; 
     `}
   }
 
