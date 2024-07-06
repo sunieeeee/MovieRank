@@ -13,7 +13,7 @@
   root.render(
     <Provider store={store}>
       <GlobalStyle />
-      <Meta />
+      <Meta title="move rank" />
       <App />
     </Provider>
   );

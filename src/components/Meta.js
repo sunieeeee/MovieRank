@@ -1,16 +1,8 @@
-/**
- * @filename: Meta.js
- * @description: <head>태그 내의 SEO 처리 및 기본 참조 리소스 명시
- * @author: Lee Y.J (sunhee3965@naver.com)
- */
-
 /** 패키지 참조 */
 //기본 참조 객체
 import React from 'react';
 //SEO 처리 기능 패키지
 import {Helmet, HelmetProvider} from 'react-helmet-async';
-//미리보기 이미지 샘플
-// import sample from './assets/img/sample.png';
 
 /**
  * SEO 처리 컴포넌트

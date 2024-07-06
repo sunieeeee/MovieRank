@@ -47,9 +47,6 @@ const MovieRank = memo(() => {
   return (
     <MovieContainer>
       <div className='inner'>
-
-      
-
       <h1>MovieRank</h1>
       
       <Spinner loading={loading} />
