@@ -11,3 +11,4 @@
 
 ## 작업 화면
 💡 날짜 선택 및 데이터 조회
+![날짜 선택 및 데이터 조회](https://portfolio-iota-eosin-95.vercel.app/img/projects/movierank/MovieRank.gif)
