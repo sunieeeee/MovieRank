@@ -1,7 +1,7 @@
 import {createSlice, createAsyncThunk} from '@reduxjs/toolkit';
 import axios from 'axios';
 
-const API_URL = ' http://www.kobis.or.kr/kobisopenapi/webservice/rest/boxoffice/searchDailyBoxOfficeList.json';
+const API_URL = ' https://www.kobis.or.kr/kobisopenapi/webservice/rest/boxoffice/searchDailyBoxOfficeList.json';
 const API_KEY = 'b9e38bc24e8273daba4aeb76ae5c17c8';
 
 /** Ajax처리를 위한 미들웨어 함수 정의 */
